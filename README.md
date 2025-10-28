@@ -1,5 +1,6 @@
-Trained the crop yield model using XGBRegressor and produced 98.06% accuracy
-Credit to GarvDTU27 for this dataset
+# Trained the crop yield model using XGBRegressor and produced 98.06% accuracy
+
+# Credit to GarvDTU27 for this dataset
 
 
 # Pandas for data manupulation
